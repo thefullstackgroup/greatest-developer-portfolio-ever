@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Portfolio Site",
+    "description": "Build your own portfolio site and put your own stamp on it.",
+    "tutorial": "",
+    "type": "",
+    "role": ["frontend", "backend", "fullstack", "android", "ios"],
+    "stack": ["react", "javascript", "php", "tailwindcss", "chakraui"]
+  },
+  {
+    "title": "Clone your favourite website",
+    "description": "Learn a tonne of skills from making a clone of your favourite website.",
+    "tutorial": "https://google.com",
+    "type": "",
+    "role": ["frontend", "fullstack"],
+    "stack": ["react", "javascript", "php", "tailwindcss", "chakraui"]
+  },
+  {
+    "title": "Portfolio Site",
+    "description": "Build your own portfolio site and put your own stamp on it.",
+    "tutorial": "",
+    "type": "",
+    "role": ["frontend", "backend", "fullstack", "android", "ios"],
+    "stack": ["react", "javascript", "php", "tailwindcss", "chakraui"]
+  },
+  {
+    "title": "Clone your favourite website",
+    "description": "Learn a tonne of skills from making a clone of your favourite website.",
+    "tutorial": "",
+    "type": "",
+    "role": ["backend", "fullstack"],
+    "stack": ["react", "javascript", "php", "tailwindcss", "chakraui"]
+  },
+  {
+    "title": "My Android App",
+    "description": "Learn a tonne of skills from making a clone of your favourite website.",
+    "tutorial": "",
+    "type": "android",
+    "role": ["android"],
+    "stack": ["java", "kotlin"]
+  },
+  {
+    "title": "Clone your favourite website",
+    "description": "Learn a tonne of skills from making a clone of your favourite website.",
+    "tutorial": "https://google.com",
+    "type": "",
+    "role": ["frontend", "fullstack"],
+    "stack": ["react", "javascript", "php", "tailwindcss", "chakraui"]
+  },
+  {
+    "title": "Portfolio Site",
+    "description": "Build your own portfolio site and put your own stamp on it.",
+    "tutorial": "",
+    "type": "",
+    "role": ["frontend", "backend", "fullstack", "android", "ios"],
+    "stack": ["react", "javascript", "php", "tailwindcss", "chakraui"]
+  },
+  {
+    "title": "Clone your favourite website",
+    "description": "Learn a tonne of skills from making a clone of your favourite website.",
+    "tutorial": "",
+    "type": "",
+    "role": ["backend", "fullstack"],
+    "stack": ["react", "javascript", "php", "tailwindcss", "chakraui"]
+  },
+  {
+    "title": "My Android App",
+    "description": "Learn a tonne of skills from making a clone of your favourite website.",
+    "tutorial": "",
+    "type": "android",
+    "role": ["android"],
+    "stack": ["java", "kotlin"]
+  }
+]
