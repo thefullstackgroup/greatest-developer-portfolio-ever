@@ -2,11 +2,9 @@
 
 A collection of project ideas and inspiration to build and add to your developer portoflio.
 
-To add your idea to the list, edit `projects/data.json` with the correct json strucutre.
+To add your idea to the list, clone repo and edit `projects/data.json` to add your project ideas following the json strucutre below.
 
-### Notes:
-
-Object data strucutre is as follows:
+## Object data strucutre is as follows:
 
 ```json
   {
