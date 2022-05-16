@@ -155,7 +155,7 @@
     "title": "Weather App",
     "description": "Build an app that integrates to a free weather service API.",
     "tutorial": "",
-    "type": "phoneApp",
+    "type": "mobileApp",
     "role": ["fullstack", "android", "ios"],
     "stack": ["java", "swift", "kotlin"]
   },
@@ -166,5 +166,53 @@
     "type": "webApp",
     "role": ["fullstack", "backend"],
     "stack": ["php", "node", "vue", "react", "javascript", "mysql"]
+  },
+  {
+    "title": "Kudos Slack Bot",
+    "description": "Give recognition to others you code with, send them a kudos on Slack.",
+    "tutorial": "",
+    "type": "plugin",
+    "role": ["backend", "fullstack"],
+    "stack": ["javascript", "node", "express"]
+  },
+  {
+    "title": "Instagram Clone",
+    "description": "Make a clone of Instagram, covering feeds, gallery grid views and camera actions.",
+    "tutorial": "",
+    "type": "mobileApp",
+    "role": ["android", "ios"],
+    "stack": ["swift", "java", "mysql"]
+  },
+  {
+    "title": "Realtime Chat App",
+    "description": "Create a realtime chat app, similar to WhatsApp or Telegram.",
+    "tutorial": "",
+    "type": "mobileApp",
+    "role": ["android", "ios"],
+    "stack": ["swift", "java", "mysql"]
+  },
+  {
+    "title": "Calorie Counter App",
+    "description": "Build an app to track those calories building up as you sit/stand at your desk.",
+    "tutorial": "",
+    "type": "mobileApp",
+    "role": ["android", "ios"],
+    "stack": ["swift", "java", "mysql"]
+  },
+  {
+    "title": "Podcast Directory",
+    "description": "Integrate with a free API to list your favourite podcasts in a web app / PWA.",
+    "tutorial": "",
+    "type": "webApp",
+    "role": ["fullstack"],
+    "stack": ["php", "mysql", "APIs"]
+  },
+  {
+    "title": "Emoji Translator",
+    "description": "Translate sentences into emojis and display back to user.",
+    "tutorial": "",
+    "type": "webApp",
+    "role": ["fullstack", "backend", "frontend"],
+    "stack": ["react", "javascript"]
   }
 ]
