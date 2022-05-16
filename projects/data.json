@@ -1,67 +1,67 @@
 [
   {
-    "title": "Portfolio Site",
-    "description": "Build your own portfolio site and put your own stamp on it.",
+    "title": "Habit Tracker",
+    "description": "Build a habit tracker app for iPhone or Android.",
     "tutorial": "",
     "type": "",
-    "role": ["frontend", "backend", "fullstack", "android", "ios"],
-    "stack": ["react", "javascript", "php", "tailwindcss", "chakraui"]
+    "role": ["android", "ios"],
+    "stack": ["swift", "java"]
   },
   {
-    "title": "Clone your favourite website",
-    "description": "Learn a tonne of skills from making a clone of your favourite website.",
-    "tutorial": "https://google.com",
+    "title": "URL Shortener",
+    "description": "Build your own URL shortener.",
+    "tutorial": "",
     "type": "",
     "role": ["frontend", "fullstack"],
-    "stack": ["react", "javascript", "php", "tailwindcss", "chakraui"]
+    "stack": ["html", "css", "javascript"]
   },
   {
-    "title": "Portfolio Site",
-    "description": "Build your own portfolio site and put your own stamp on it.",
+    "title": "GitHub Timeline",
+    "description": "Create your own version of your GitHub timeline.",
+    "tutorial": "",
+    "type": "",
+    "role": ["frontend", "backend", "fullstack"],
+    "stack": ["react", "php", "tailwindcss", "chakraui"]
+  },
+  {
+    "title": "Notes App",
+    "description": "Do a simple version of Notion, purely for note taking.",
+    "tutorial": "",
+    "type": "ios",
+    "role": ["ios"],
+    "stack": ["swift", "monogoDB"]
+  },
+  {
+    "title": "Wordpress Plugin",
+    "description": "Build a Wordpress plugin, share it with other developers.",
+    "tutorial": "",
+    "type": "",
+    "role": ["fullstack"],
+    "stack": ["html", "css", "php"]
+  },
+  {
+    "title": "Shopify Theme",
+    "description": "Build a Shopify theme, share it with other developers.",
+    "tutorial": "",
+    "type": "",
+    "role": ["frontend", "fullstack"],
+    "stack": ["html", "css", "php"]
+  },
+  {
+    "title": "Meme Maker",
+    "description": "Create a meme maker for yourself, and have fun!",
     "tutorial": "",
     "type": "",
     "role": ["frontend", "backend", "fullstack", "android", "ios"],
-    "stack": ["react", "javascript", "php", "tailwindcss", "chakraui"]
+    "stack": ["react", "javascript", "php", "ios", "java"]
   },
   {
-    "title": "Clone your favourite website",
-    "description": "Learn a tonne of skills from making a clone of your favourite website.",
+    "title": "Chat web app",
+    "description": "Create a chat web app using React and Firestore.",
     "tutorial": "",
     "type": "",
     "role": ["backend", "fullstack"],
-    "stack": ["react", "javascript", "php", "tailwindcss", "chakraui"]
-  },
-  {
-    "title": "My Android App",
-    "description": "Learn a tonne of skills from making a clone of your favourite website.",
-    "tutorial": "",
-    "type": "android",
-    "role": ["android"],
-    "stack": ["java", "kotlin"]
-  },
-  {
-    "title": "Clone your favourite website",
-    "description": "Learn a tonne of skills from making a clone of your favourite website.",
-    "tutorial": "https://google.com",
-    "type": "",
-    "role": ["frontend", "fullstack"],
-    "stack": ["react", "javascript", "php", "tailwindcss", "chakraui"]
-  },
-  {
-    "title": "Portfolio Site",
-    "description": "Build your own portfolio site and put your own stamp on it.",
-    "tutorial": "",
-    "type": "",
-    "role": ["frontend", "backend", "fullstack", "android", "ios"],
-    "stack": ["react", "javascript", "php", "tailwindcss", "chakraui"]
-  },
-  {
-    "title": "Clone your favourite website",
-    "description": "Learn a tonne of skills from making a clone of your favourite website.",
-    "tutorial": "",
-    "type": "",
-    "role": ["backend", "fullstack"],
-    "stack": ["react", "javascript", "php", "tailwindcss", "chakraui"]
+    "stack": ["react", "firestore", "tailwindcss"]
   },
   {
     "title": "My Android App",
