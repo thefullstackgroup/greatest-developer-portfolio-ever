@@ -3,7 +3,7 @@
     "title": "Habit Tracker",
     "description": "Build a habit tracker app for iPhone or Android.",
     "tutorial": "",
-    "type": "",
+    "type": "mobileApp",
     "role": ["android", "ios"],
     "stack": ["swift", "java"]
   },
@@ -11,7 +11,7 @@
     "title": "URL Shortener",
     "description": "Build your own URL shortener.",
     "tutorial": "",
-    "type": "",
+    "type": "webApp",
     "role": ["frontend", "fullstack"],
     "stack": ["html", "css", "javascript"]
   },
@@ -19,7 +19,7 @@
     "title": "GitHub Timeline",
     "description": "Create your own version of your GitHub timeline.",
     "tutorial": "",
-    "type": "",
+    "type": "webApp",
     "role": ["frontend", "backend", "fullstack"],
     "stack": ["react", "php", "tailwindcss", "chakraui"]
   },
@@ -27,7 +27,7 @@
     "title": "Notes App",
     "description": "Do a simple version of Notion, purely for note taking.",
     "tutorial": "",
-    "type": "ios",
+    "type": "mobileApp",
     "role": ["ios"],
     "stack": ["swift", "monogoDB"]
   },
@@ -35,7 +35,7 @@
     "title": "Wordpress Plugin",
     "description": "Build a Wordpress plugin, share it with other developers.",
     "tutorial": "",
-    "type": "",
+    "type": "plugin",
     "role": ["fullstack"],
     "stack": ["html", "css", "php"]
   },
@@ -43,7 +43,7 @@
     "title": "Shopify Theme",
     "description": "Build a Shopify theme, share it with other developers.",
     "tutorial": "",
-    "type": "",
+    "type": "theme",
     "role": ["frontend", "fullstack"],
     "stack": ["html", "css", "php"]
   },
@@ -57,18 +57,114 @@
   },
   {
     "title": "Chat web app",
-    "description": "Create a chat web app using React and Firestore.",
+    "description": "Create a chat web app using React / NextJS and Firestore.",
     "tutorial": "",
-    "type": "",
+    "type": "webApp",
     "role": ["backend", "fullstack"],
-    "stack": ["react", "firestore", "tailwindcss"]
+    "stack": ["react", "firestore", "nextjs"]
   },
   {
-    "title": "My Android App",
-    "description": "Learn a tonne of skills from making a clone of your favourite website.",
+    "title": "IMDB Ratings Scraper",
+    "description": "Build a scraper to take IMDB ratings and store in storage of your choice.",
     "tutorial": "",
-    "type": "android",
-    "role": ["android"],
-    "stack": ["java", "kotlin"]
+    "type": "service",
+    "role": ["backend"],
+    "stack": ["python", "mysql", "monogoDB"]
+  },
+  {
+    "title": "Tweet Scheduler",
+    "description": "Create a simple web app to schedule Tweets to a Twitter account.",
+    "tutorial": "",
+    "type": "webApp",
+    "role": ["backend", "fullstack"],
+    "stack": ["javascript", "html", "css", "supabase"]
+  },
+  {
+    "title": "Crypto Tracker",
+    "description": "Create a simple web app tracks and displays back crypto markets.",
+    "tutorial": "",
+    "type": "webApp",
+    "role": ["backend", "fullstack"],
+    "stack": ["react", "node"]
+  },
+  {
+    "title": "Slack Reminders Plugin",
+    "description": "Build a Slack plugin to send you reminders of your friends birthdays or other marked events.",
+    "tutorial": "",
+    "type": "plugin",
+    "role": ["backend", "fullstack"],
+    "stack": ["javascript", "node", "express"]
+  },
+  {
+    "title": "Currency Converter",
+    "description": "Clone xe.com/ucc and create a currency converter web app.",
+    "tutorial": "",
+    "type": "webApp",
+    "role": ["backend", "fullstack"],
+    "stack": ["javascript", "node", "express", "api"]
+  },
+  {
+    "title": "Your portfolio website",
+    "description": "Create your own portfolio website and have it PWA enabled.",
+    "tutorial": "",
+    "type": "webApp",
+    "role": ["frontend", "fullstack", "backend", "android", "ios"],
+    "stack": ["vue", "react", "gatsby", "vercel", "netlify"]
+  },
+  {
+    "title": "Simple ecommerce store",
+    "description": "Build a simple online store with products, shopping cart, checkout, payment gateways integrated, order history and account screen.",
+    "tutorial": "",
+    "type": "webApp",
+    "role": ["frontend", "fullstack", "backend"],
+    "stack": ["react", "php", "mysql"]
+  },
+  {
+    "title": "Pixel perfect clone of Netflix UI",
+    "description": "Clone the Netflix UI of the movie's listing screen. Make it pixel perfect.",
+    "tutorial": "",
+    "type": "webApp",
+    "role": ["frontend", "fullstack"],
+    "stack": ["css", "html", "tailwindcss", "chakraUI"]
+  },
+  {
+    "title": "User Authentication System",
+    "description": "Create a login and signup system for users on a site.",
+    "tutorial": "",
+    "type": "service",
+    "role": ["backend", "fullstack"],
+    "stack": ["mongoDB", "java"]
+  },
+  {
+    "title": "Proxy Server",
+    "description": "Create a server that requests data from an external API and serves the user that information.",
+    "tutorial": "",
+    "type": "service",
+    "role": ["backend", "fullstack"],
+    "stack": ["mongoDB", "node"]
+  },
+  {
+    "title": "Web Crawler",
+    "description": "Create an application that can crawl the web for the purpose of web indexing or gathering data.",
+    "tutorial": "https://blog.logrocket.com/node-js-web-scraping-tutorial/",
+    "type": "service",
+    "role": ["backend", "fullstack"],
+    "stack": ["php", "python", "mongoDB", "node"]
+  },
+  {
+    "title": "Weather App",
+    "description": "Build an app that integrates to a free weather service API.",
+    "tutorial": "",
+    "type": "phoneApp",
+    "role": ["fullstack", "android", "ios"],
+    "stack": ["java", "swift", "kotlin"]
+  },
+  {
+    "title": "Content Management System (CMS)",
+    "description": "Create a replica of a known CMS (e.g. Contentful)",
+    "tutorial": "",
+    "type": "webApp",
+    "role": ["fullstack", "backend"],
+    "stack": ["php", "node", "vue", "react", "javascript", "mysql"]
   }
 ]
