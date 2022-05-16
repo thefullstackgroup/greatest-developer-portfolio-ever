@@ -31,14 +31,20 @@ If the project has a suggested tutorial or example to link to. (Optional).
 `type`
 This is project type and can be of the following types:
 
-`WebApp, MobileApp, API, Service, Component, Plugin, Theme`
+```
+WebApp, MobileApp, API, Service, Component, Plugin, Theme
+```
 
 `role` (Array)
 The role of the Developer, can be an array of the following:
 
-`["frontend", "backend", "fullstack", "android", "ios"]`
+```
+["frontend", "backend", "fullstack", "android", "ios"]
+```
 
 `stack` (Array)
 The suggested stack to use for the project, can be an array of tech stacks:
 
-`["react", "javascript", "php", "ios", "java"]`
+```
+["react", "javascript", "php", "ios", "java"]
+```
