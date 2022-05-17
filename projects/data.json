@@ -214,5 +214,53 @@
     "type": "webApp",
     "role": ["fullstack", "backend", "frontend"],
     "stack": ["react", "javascript"]
+  },
+  {
+    "title": "Clone Uber app",
+    "description": "Build an Uber app clone using React Native, Redux, Tailwind CSS.",
+    "tutorial": "https://www.youtube.com/watch?v=bvn_HYpix6s",
+    "type": "mobileApp",
+    "role": ["fullstack", "frontend"],
+    "stack": ["react", "react native", "javascript", "tailwindcss"]
+  },
+  {
+    "title": "Make a Twitter clone",
+    "description": "Build a Twitter clone using React (NextJS), Tailwind, Firebase, NextAuth.",
+    "tutorial": "https://www.youtube.com/watch?v=5Wak0iyGCrc",
+    "type": "webApp",
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "nextjs", "firebase", "javascript", "tailwindcss"]
+  },
+  {
+    "title": "Make a Spotify clone",
+    "description": "Build a Spotify clone using React (NextJS), Tailwind, NextAuth.",
+    "tutorial": "https://www.youtube.com/watch?v=5qwpAn8bqCg",
+    "type": "webApp",
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "nextjs", "javascript", "tailwindcss"]
+  },
+  {
+    "title": "Make a LinkedIn clone",
+    "description": "Build a LinkedIn clone using React (NextJS), Tailwind, NextAuth, MongoDB.",
+    "tutorial": "https://www.youtube.com/watch?v=JGhuAJKGRN0",
+    "type": "webApp",
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "nextjs", "javascript", "tailwindcss", "mongoDB"]
+  },
+  {
+    "title": "Make a Netflix clone",
+    "description": "Build a Netflix clone using React (NextJS), Tailwind, Typescript, RestAPI.",
+    "tutorial": "https://www.youtube.com/watch?v=cwqNAkwhKqw",
+    "type": "webApp",
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "nextjs", "javascript", "tailwindcss", "mongoDB"]
+  },
+  {
+    "title": "Make a Discord clone",
+    "description": "Build a Discord clone using React, Tailwind, Firebase, Redux.",
+    "tutorial": "https://www.youtube.com/watch?v=MtT5Xuf9_xU",
+    "type": "webApp",
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "firebase", "javascript", "tailwindcss"]
   }
 ]
