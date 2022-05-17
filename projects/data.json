@@ -262,5 +262,13 @@
     "type": "webApp",
     "role": ["fullstack", "frontend", "backend"],
     "stack": ["react", "firebase", "javascript", "tailwindcss"]
+  },
+  {
+    "title": "Make a Disney+ clone",
+    "description": "Build a Disney+ clone using React (NextJS), Tailwind, Firebase, SSR React.",
+    "tutorial": "https://www.youtube.com/watch?v=zMXHYSqltmU",
+    "type": "webApp",
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "firebase", "javascript", "tailwindcss"]
   }
 ]
