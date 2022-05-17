@@ -38,6 +38,7 @@ WebApp, MobileApp, API, Service, Component, Plugin, Theme
 ```
 
 `role` (Array)
+
 The role of the Developer, can be an array of the following:
 
 ```
@@ -45,6 +46,7 @@ The role of the Developer, can be an array of the following:
 ```
 
 `stack` (Array)
+
 The suggested stack to use for the project, can be an array of tech stacks:
 
 ```
