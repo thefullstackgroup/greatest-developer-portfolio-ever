@@ -288,7 +288,7 @@
     "stack": ["react", "node", "python", "ruby", "php", "chakraUI"]
   },
   {
-    "title": "Create an Online Store Using External APIs",
+    "title": "Build an online store using external APIs",
     "description": "Printful has a solid API interface that developers can tap into in order to create white label products. Use their API to create a fully capable ecommerce store complete with cart and payment acceptance.",
     "tutorial": "https://www.printful.com/",
     "type": "webApp",
