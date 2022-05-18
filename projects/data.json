@@ -270,5 +270,13 @@
     "type": "webApp",
     "role": ["fullstack", "frontend", "backend"],
     "stack": ["react", "firebase", "javascript", "tailwindcss"]
+  },
+  {
+    "title": "Make a Spotify player",
+    "description": "Build a Spotify player for web made up of your playlists, artists. etc. Integrate with the Spotify API using their SDKs.",
+    "tutorial": "https://developer.spotify.com/documentation/web-api/",
+    "type": "webApp",
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "javascript", "chakraUI"]
   }
 ]
