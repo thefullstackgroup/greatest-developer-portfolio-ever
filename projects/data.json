@@ -294,5 +294,13 @@
     "type": "webApp",
     "role": ["fullstack", "frontend", "backend"],
     "stack": ["react", "ruby", "php", "chakraUI", "tailwindcss"]
+  },
+  {
+    "title": "Build an Bug tracker",
+    "description": "Create a bug tracking system. It's much more in depth than a standard todo list app.",
+    "tutorial": "",
+    "type": "webApp",
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "ruby", "php", "chakraUI", "tailwindcss"]
   }
 ]
