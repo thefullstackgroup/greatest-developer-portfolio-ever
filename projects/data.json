@@ -302,5 +302,13 @@
     "type": "webApp",
     "role": ["fullstack", "frontend", "backend"],
     "stack": ["react", "ruby", "php", "chakraUI", "tailwindcss"]
+  },
+  {
+    "title": "web3 version of Spotify",
+    "description": "Create a dApp for music content distribution - where Spotify meets web3 and is artist friendly.",
+    "tutorial": "",
+    "type": "webApp",
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "ruby", "php", "chakraUI", "tailwindcss", "blockchain"]
   }
 ]
