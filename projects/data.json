@@ -34,7 +34,7 @@
   {
     "title": "Wordpress Plugin",
     "description": "Build a Wordpress plugin, share it with other developers.",
-    "tutorial": "",
+    "tutorial": "https://www.youtube.com/watch?v=7REUdrDM_uE",
     "type": "plugin",
     "role": ["fullstack"],
     "stack": ["html", "css", "php"]
@@ -42,7 +42,7 @@
   {
     "title": "Shopify Theme",
     "description": "Build a Shopify theme, share it with other developers.",
-    "tutorial": "",
+    "tutorial": "https://shopify.dev/themes/getting-started/create",
     "type": "theme",
     "role": ["frontend", "fullstack"],
     "stack": ["html", "css", "php"]
@@ -58,7 +58,7 @@
   {
     "title": "Chat web app",
     "description": "Create a chat web app using React / NextJS and Firestore.",
-    "tutorial": "",
+    "tutorial": "https://thefullstack.network/u/gyanendraknojiya/create-a-real-time-chat-application-using-react-js-and-firebase",
     "type": "webApp",
     "role": ["backend", "fullstack"],
     "stack": ["react", "firestore", "nextjs"]
@@ -66,7 +66,7 @@
   {
     "title": "IMDB Ratings Scraper",
     "description": "Build a scraper to take IMDB ratings and store in storage of your choice.",
-    "tutorial": "",
+    "tutorial": "https://www.youtube.com/watch?v=vIjXuYRLge8",
     "type": "service",
     "role": ["backend"],
     "stack": ["python", "mysql", "monogoDB"]
