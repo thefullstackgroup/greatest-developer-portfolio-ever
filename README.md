@@ -3,7 +3,7 @@
 Compiling the largest collection of project ideas and inspiration to build and add to your developer portoflio to enhance your skills.
 
 ## Got an idea you want to contribute?
-Looking for contributors. If you would like to contribute to the collection, clone this repo and edit `projects/data.json` to add your project ideas using following the json structure below. All projects can be viewed (here)[https://thefullstack.network/greatest-developer-portfolio-ever]. This is probably not the best format for doing this, but hey its quick to put together. As the collection grows, lets change to a better format or approach for maintaining it.
+Looking for contributors. If you would like to contribute to the collection, clone this repo and edit `projects/data.json` to add your project ideas using following the json structure below. All projects can be viewed **[here](https://thefullstack.network/greatest-developer-portfolio-ever)**. This is probably not the best format for doing this, but hey its quick to put together. As the collection grows, lets change to a better format or approach for maintaining it.
 
 ## JSON Object structure is as follows:
 
