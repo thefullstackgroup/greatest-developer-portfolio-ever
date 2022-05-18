@@ -278,5 +278,21 @@
     "type": "webApp",
     "role": ["fullstack", "frontend", "backend"],
     "stack": ["react", "javascript", "chakraUI"]
+  },
+  {
+    "title": "Make a news aggregator",
+    "description": "Create a news aggregator application that pulls in RSS feeds from multiple sources and aggregates them based on date.",
+    "tutorial": "https://developer.spotify.com/documentation/web-api/",
+    "type": "webApp",
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "node", "python", "ruby", "php", "chakraUI"]
+  },
+  {
+    "title": "Create an Online Store Using External APIs",
+    "description": "Printful has a solid API interface that developers can tap into in order to create white label products. Use their API to create a fully capable ecommerce store complete with cart and payment acceptance.",
+    "tutorial": "https://www.printful.com/",
+    "type": "webApp",
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "ruby", "php", "chakraUI", "tailwindcss"]
   }
 ]
