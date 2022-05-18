@@ -310,5 +310,13 @@
     "type": "webApp",
     "role": ["fullstack", "frontend", "backend"],
     "stack": ["react", "ruby", "php", "chakraUI", "tailwindcss", "blockchain"]
+  },
+  {
+    "title": "Java Authentication Service and Resource Service",
+    "description": "Build a Spring backend to handle Authentication of users and a Spring Service which is protected by the Auth Service.",
+    "tutorial": "",
+    "type": "api",
+    "role": ["backend", "api"],
+    "stack": ["spring", "java"]
   }
 ]
