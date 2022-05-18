@@ -1,10 +1,11 @@
 # Greatest Developer Portfolio ...Ever
 
-A collection of project ideas and inspiration to build and add to your developer portoflio.
+Compiling the largest collection of project ideas and inspiration to build and add to your developer portoflio to enhance your skills.
 
-To add your project idea to the list, clone this repo and edit `projects/data.json` to add your project ideas using following the json strucutre below.
+## Got an idea you want to contribute?
+Looking for contributors. If you would like to contribute to the collection, clone this repo and edit `projects/data.json` to add your project ideas using following the json strucutre below. This is probably not the best format for doing this, but hey its quick to put together. As the collection grows, lets change to a better format or approach for maintaining it.
 
-## Object data structure is as follows:
+## JSON Object structure is as follows:
 
 ```json
   {
