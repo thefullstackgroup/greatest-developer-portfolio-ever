@@ -16,7 +16,7 @@ Looking for contributors. If you would like to contribute to the collection, clo
     "title": "PROJECT TITLE",
     "description": "BRIEF PROJECT DESCRIPTION",
     "tutorial": "SAMPLE TUTORIAL URL",
-    "type": "WebApp",
+    "type": "webApp",
     "role": ["frontend", "backend", "fullstack", "android", "ios"],
     "stack": ["react", "javascript", "php", "ios", "java"]
   },
@@ -39,7 +39,7 @@ If the project has a suggested tutorial or example to link to. (Optional).
 This is project type and can be of the following types:
 
 ```
-WebApp, MobileApp, API, Service, Component, Plugin, Theme
+webApp, mobileApp, api, service, component, plugin, theme
 ```
 
 `role` (Array)
