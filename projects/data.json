@@ -318,5 +318,13 @@
     "type": "api",
     "role": ["backend", "api"],
     "stack": ["spring", "java"]
+  },
+  {
+    "title": "JumpStart Pro",
+    "description": "Created by Chris from GoRails, Jumpstart Pro allows you to get your project up and running quickly. Free version is available too.",
+    "tutorial": "https://jumpstartrails.com",
+    "type": "WebApp",
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["rails", "ruby", "tailwindcss", "hotwire"]
   }
 ]
