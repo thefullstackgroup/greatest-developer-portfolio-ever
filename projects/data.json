@@ -296,7 +296,7 @@
     "stack": ["react", "ruby", "php", "chakraUI", "tailwindcss"]
   },
   {
-    "title": "Build an Bug tracker",
+    "title": "Build a Bug tracker",
     "description": "Create a bug tracking system. It's much more in depth than a standard todo list app.",
     "tutorial": "",
     "type": "webApp",
@@ -326,5 +326,13 @@
     "type": "WebApp",
     "role": ["fullstack", "frontend", "backend"],
     "stack": ["rails", "ruby", "tailwindcss", "hotwire"]
+  },
+  {
+    "title": "Make an Evernote clone",
+    "description": "Build a clone of Evernote using React (NextJS) and Firebase.",
+    "tutorial": "https://www.freecodecamp.org/news/nextjs-firebase-tutorial-build-an-evernote-clone/",
+    "type": "webApp",
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "firebase", "javascript", "nextjs"]
   }
 ]
