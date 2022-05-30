@@ -334,5 +334,13 @@
     "type": "webApp",
     "role": ["fullstack", "frontend", "backend"],
     "stack": ["react", "firebase", "javascript", "nextjs"]
-  }
+  },
+  {
+    "title": "Build a calculator",
+    "description": "Build a calculator using React, a perfect beginner project.",
+    "tutorial": "https://www.youtube.com/watch?v=DgRrrOt0Vr8",
+    "type": "webApp",
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "javascript", "css"]
+  } 
 ]
