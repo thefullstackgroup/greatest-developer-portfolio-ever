@@ -4,706 +4,375 @@
     "description": "Build a habit tracker app for iPhone or Android.",
     "tutorial": "",
     "type": "mobileApp",
-    "role": [
-      "android",
-      "ios"
-    ],
-    "stack": [
-      "swift",
-      "java"
-    ]
+    "role": ["android", "ios"],
+    "stack": ["swift", "java"]
   },
   {
     "title": "URL Shortener",
     "description": "Build your own URL shortener.",
     "tutorial": "",
     "type": "webApp",
-    "role": [
-      "frontend",
-      "fullstack"
-    ],
-    "stack": [
-      "html",
-      "css",
-      "javascript"
-    ]
+    "role": ["frontend", "fullstack"],
+    "stack": ["html", "css", "javascript"]
   },
   {
     "title": "GitHub Timeline",
     "description": "Create your own version of your GitHub timeline.",
     "tutorial": "",
     "type": "webApp",
-    "role": [
-      "frontend",
-      "backend",
-      "fullstack"
-    ],
-    "stack": [
-      "react",
-      "php",
-      "tailwindcss",
-      "chakraui"
-    ]
+    "role": ["frontend", "backend", "fullstack"],
+    "stack": ["react", "php", "tailwindcss", "chakraui"]
   },
   {
     "title": "Notes App",
     "description": "Do a simple version of Notion, purely for note taking.",
     "tutorial": "https://www.youtube.com/watch?v=vKCdVAg5h40",
     "type": "mobileApp",
-    "role": [
-      "ios"
-    ],
-    "stack": [
-      "swift",
-      "monogoDB"
-    ]
+    "role": ["ios"],
+    "stack": ["swift", "monogoDB"]
   },
   {
     "title": "Wordpress Plugin",
     "description": "Build a Wordpress plugin, share it with other developers.",
     "tutorial": "https://www.youtube.com/watch?v=7REUdrDM_uE",
     "type": "plugin",
-    "role": [
-      "fullstack"
-    ],
-    "stack": [
-      "html",
-      "css",
-      "php"
-    ]
+    "role": ["fullstack"],
+    "stack": ["html", "css", "php"]
   },
   {
     "title": "Shopify Theme",
     "description": "Build a Shopify theme, share it with other developers.",
     "tutorial": "https://shopify.dev/themes/getting-started/create",
     "type": "theme",
-    "role": [
-      "frontend",
-      "fullstack"
-    ],
-    "stack": [
-      "html",
-      "css",
-      "php"
-    ]
+    "role": ["frontend", "fullstack"],
+    "stack": ["html", "css", "php"]
   },
   {
     "title": "Meme Maker",
     "description": "Create a meme maker for yourself, and have fun!",
     "tutorial": "",
     "type": "",
-    "role": [
-      "frontend",
-      "backend",
-      "fullstack",
-      "android",
-      "ios"
-    ],
-    "stack": [
-      "react",
-      "javascript",
-      "php",
-      "ios",
-      "java"
-    ]
+    "role": ["frontend", "backend", "fullstack", "android", "ios"],
+    "stack": ["react", "javascript", "php", "ios", "java"]
   },
   {
     "title": "Chat web app",
     "description": "Create a chat web app using React / NextJS and Firestore.",
     "tutorial": "https://thefullstack.network/u/gyanendraknojiya/create-a-real-time-chat-application-using-react-js-and-firebase",
     "type": "webApp",
-    "role": [
-      "backend",
-      "fullstack"
-    ],
-    "stack": [
-      "react",
-      "firestore",
-      "nextjs"
-    ]
+    "role": ["backend", "fullstack"],
+    "stack": ["react", "firestore", "nextjs"]
   },
   {
     "title": "IMDB Ratings Scraper",
     "description": "Build a scraper to take IMDB ratings and store in storage of your choice.",
     "tutorial": "https://www.youtube.com/watch?v=vIjXuYRLge8",
     "type": "service",
-    "role": [
-      "backend"
-    ],
-    "stack": [
-      "python",
-      "mysql",
-      "monogoDB"
-    ]
+    "role": ["backend"],
+    "stack": ["python", "mysql", "monogoDB"]
   },
   {
     "title": "Tweet Scheduler",
     "description": "Create a simple web app to schedule Tweets to a Twitter account.",
     "tutorial": "",
     "type": "webApp",
-    "role": [
-      "backend",
-      "fullstack"
-    ],
-    "stack": [
-      "javascript",
-      "html",
-      "css",
-      "supabase"
-    ]
+    "role": ["backend", "fullstack"],
+    "stack": ["javascript", "html", "css", "supabase"]
   },
   {
     "title": "Crypto Tracker",
     "description": "Create a simple web app tracks and displays back crypto markets.",
     "tutorial": "",
     "type": "webApp",
-    "role": [
-      "backend",
-      "fullstack"
-    ],
-    "stack": [
-      "react",
-      "node"
-    ]
+    "role": ["backend", "fullstack"],
+    "stack": ["react", "node"]
   },
   {
     "title": "Slack Reminders Plugin",
     "description": "Build a Slack plugin to send you reminders of your friends birthdays or other marked events.",
     "tutorial": "",
     "type": "plugin",
-    "role": [
-      "backend",
-      "fullstack"
-    ],
-    "stack": [
-      "javascript",
-      "node",
-      "express"
-    ]
+    "role": ["backend", "fullstack"],
+    "stack": ["javascript", "node", "express"]
   },
   {
     "title": "Currency Converter",
     "description": "Clone xe.com/ucc and create a currency converter web app.",
     "tutorial": "",
     "type": "webApp",
-    "role": [
-      "backend",
-      "fullstack"
-    ],
-    "stack": [
-      "javascript",
-      "node",
-      "express",
-      "api"
-    ]
+    "role": ["backend", "fullstack"],
+    "stack": ["javascript", "node", "express", "api"]
   },
   {
     "title": "Your portfolio website",
     "description": "Create your own portfolio website and have it PWA enabled.",
     "tutorial": "",
     "type": "webApp",
-    "role": [
-      "frontend",
-      "fullstack",
-      "backend",
-      "android",
-      "ios"
-    ],
-    "stack": [
-      "vue",
-      "react",
-      "gatsby",
-      "vercel",
-      "netlify"
-    ]
+    "role": ["frontend", "fullstack", "backend", "android", "ios"],
+    "stack": ["vue", "react", "gatsby", "vercel", "netlify"]
   },
   {
     "title": "Simple ecommerce store",
     "description": "Build a simple online store with products, shopping cart, checkout, payment gateways integrated, order history and account screen.",
     "tutorial": "",
     "type": "webApp",
-    "role": [
-      "frontend",
-      "fullstack",
-      "backend"
-    ],
-    "stack": [
-      "react",
-      "php",
-      "mysql"
-    ]
+    "role": ["frontend", "fullstack", "backend"],
+    "stack": ["react", "php", "mysql"]
   },
   {
     "title": "Pixel perfect clone of Netflix UI",
     "description": "Clone the Netflix UI of the movie's listing screen. Make it pixel perfect.",
     "tutorial": "",
     "type": "webApp",
-    "role": [
-      "frontend",
-      "fullstack"
-    ],
-    "stack": [
-      "css",
-      "html",
-      "tailwindcss",
-      "chakraUI"
-    ]
+    "role": ["frontend", "fullstack"],
+    "stack": ["css", "html", "tailwindcss", "chakraUI"]
   },
   {
     "title": "User Authentication System",
     "description": "Create a login and signup system for users on a site.",
     "tutorial": "",
     "type": "service",
-    "role": [
-      "backend",
-      "fullstack"
-    ],
-    "stack": [
-      "mongoDB",
-      "java"
-    ]
+    "role": ["backend", "fullstack"],
+    "stack": ["mongoDB", "java"]
   },
   {
     "title": "Proxy Server",
     "description": "Create a server that requests data from an external API and serves the user that information.",
     "tutorial": "",
     "type": "service",
-    "role": [
-      "backend",
-      "fullstack"
-    ],
-    "stack": [
-      "mongoDB",
-      "node"
-    ]
+    "role": ["backend", "fullstack"],
+    "stack": ["mongoDB", "node"]
   },
   {
     "title": "Web Crawler",
     "description": "Create an application that can crawl the web for the purpose of web indexing or gathering data.",
     "tutorial": "https://blog.logrocket.com/node-js-web-scraping-tutorial/",
     "type": "service",
-    "role": [
-      "backend",
-      "fullstack"
-    ],
-    "stack": [
-      "php",
-      "python",
-      "mongoDB",
-      "node"
-    ]
+    "role": ["backend", "fullstack"],
+    "stack": ["php", "python", "mongoDB", "node"]
   },
   {
     "title": "Weather App",
     "description": "Build an app that integrates to a free weather service API.",
     "tutorial": "",
     "type": "mobileApp",
-    "role": [
-      "fullstack",
-      "android",
-      "ios"
-    ],
-    "stack": [
-      "java",
-      "swift",
-      "kotlin"
-    ]
+    "role": ["fullstack", "android", "ios"],
+    "stack": ["java", "swift", "kotlin"]
   },
   {
     "title": "Content Management System (CMS)",
     "description": "Create a replica of a known CMS (e.g. Contentful)",
     "tutorial": "",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "backend"
-    ],
-    "stack": [
-      "php",
-      "node",
-      "vue",
-      "react",
-      "javascript",
-      "mysql"
-    ]
+    "role": ["fullstack", "backend"],
+    "stack": ["php", "node", "vue", "react", "javascript", "mysql"]
   },
   {
     "title": "Kudos Slack Bot",
     "description": "Give recognition to others you code with, send them a kudos on Slack.",
     "tutorial": "",
     "type": "plugin",
-    "role": [
-      "backend",
-      "fullstack"
-    ],
-    "stack": [
-      "javascript",
-      "node",
-      "express"
-    ]
+    "role": ["backend", "fullstack"],
+    "stack": ["javascript", "node", "express"]
   },
   {
     "title": "Instagram Clone",
     "description": "Make a clone of Instagram, covering feeds, gallery grid views and camera actions.",
     "tutorial": "",
     "type": "mobileApp",
-    "role": [
-      "android",
-      "ios"
-    ],
-    "stack": [
-      "swift",
-      "java",
-      "mysql"
-    ]
+    "role": ["android", "ios"],
+    "stack": ["swift", "java", "mysql"]
   },
   {
     "title": "Realtime Chat App",
     "description": "Create a realtime chat app, similar to WhatsApp or Telegram.",
     "tutorial": "",
     "type": "mobileApp",
-    "role": [
-      "android",
-      "ios"
-    ],
-    "stack": [
-      "swift",
-      "java",
-      "mysql"
-    ]
+    "role": ["android", "ios"],
+    "stack": ["swift", "java", "mysql"]
   },
   {
     "title": "Calorie Counter App",
     "description": "Build an app to track those calories building up as you sit/stand at your desk.",
     "tutorial": "",
     "type": "mobileApp",
-    "role": [
-      "android",
-      "ios"
-    ],
-    "stack": [
-      "swift",
-      "java",
-      "mysql"
-    ]
+    "role": ["android", "ios"],
+    "stack": ["swift", "java", "mysql"]
   },
   {
     "title": "Podcast Directory",
     "description": "Integrate with a free API to list your favourite podcasts in a web app / PWA.",
     "tutorial": "",
     "type": "webApp",
-    "role": [
-      "fullstack"
-    ],
-    "stack": [
-      "php",
-      "mysql",
-      "APIs"
-    ]
+    "role": ["fullstack"],
+    "stack": ["php", "mysql", "APIs"]
   },
   {
     "title": "Emoji Translator",
     "description": "Translate sentences into emojis and display back to user.",
     "tutorial": "",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "backend",
-      "frontend"
-    ],
-    "stack": [
-      "react",
-      "javascript"
-    ]
+    "role": ["fullstack", "backend", "frontend"],
+    "stack": ["react", "javascript"]
   },
   {
     "title": "Clone Uber app",
     "description": "Build an Uber app clone using React Native, Redux, Tailwind CSS.",
     "tutorial": "https://www.youtube.com/watch?v=bvn_HYpix6s",
     "type": "mobileApp",
-    "role": [
-      "fullstack",
-      "frontend"
-    ],
-    "stack": [
-      "react",
-      "react native",
-      "javascript",
-      "tailwindcss"
-    ]
+    "role": ["fullstack", "frontend"],
+    "stack": ["react", "react native", "javascript", "tailwindcss"]
   },
   {
     "title": "Make a Twitter clone",
     "description": "Build a Twitter clone using React (NextJS), Tailwind, Firebase, NextAuth.",
     "tutorial": "https://www.youtube.com/watch?v=5Wak0iyGCrc",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "frontend",
-      "backend"
-    ],
-    "stack": [
-      "react",
-      "nextjs",
-      "firebase",
-      "javascript",
-      "tailwindcss"
-    ]
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "nextjs", "firebase", "javascript", "tailwindcss"]
   },
   {
     "title": "Make a Spotify clone",
     "description": "Build a Spotify clone using React (NextJS), Tailwind, NextAuth.",
     "tutorial": "https://www.youtube.com/watch?v=5qwpAn8bqCg",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "frontend",
-      "backend"
-    ],
-    "stack": [
-      "react",
-      "nextjs",
-      "javascript",
-      "tailwindcss"
-    ]
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "nextjs", "javascript", "tailwindcss"]
   },
   {
     "title": "Make a LinkedIn clone",
     "description": "Build a LinkedIn clone using React (NextJS), Tailwind, NextAuth, MongoDB.",
     "tutorial": "https://www.youtube.com/watch?v=JGhuAJKGRN0",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "frontend",
-      "backend"
-    ],
-    "stack": [
-      "react",
-      "nextjs",
-      "javascript",
-      "tailwindcss",
-      "mongoDB"
-    ]
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "nextjs", "javascript", "tailwindcss", "mongoDB"]
   },
   {
     "title": "Make a Netflix clone",
     "description": "Build a Netflix clone using React (NextJS), Tailwind, Typescript, RestAPI.",
     "tutorial": "https://www.youtube.com/watch?v=cwqNAkwhKqw",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "frontend",
-      "backend"
-    ],
-    "stack": [
-      "react",
-      "nextjs",
-      "javascript",
-      "tailwindcss",
-      "mongoDB"
-    ]
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "nextjs", "javascript", "tailwindcss", "mongoDB"]
   },
   {
     "title": "Make a Discord clone",
     "description": "Build a Discord clone using React, Tailwind, Firebase, Redux.",
     "tutorial": "https://www.youtube.com/watch?v=MtT5Xuf9_xU",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "frontend",
-      "backend"
-    ],
-    "stack": [
-      "react",
-      "firebase",
-      "javascript",
-      "tailwindcss"
-    ]
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "firebase", "javascript", "tailwindcss"]
   },
   {
     "title": "Make a Disney+ clone",
     "description": "Build a Disney+ clone using React (NextJS), Tailwind, Firebase, SSR React.",
     "tutorial": "https://www.youtube.com/watch?v=zMXHYSqltmU",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "frontend",
-      "backend"
-    ],
-    "stack": [
-      "react",
-      "firebase",
-      "javascript",
-      "tailwindcss"
-    ]
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "firebase", "javascript", "tailwindcss"]
   },
   {
     "title": "Make a Spotify player",
     "description": "Build a Spotify player for web made up of your playlists, artists. etc. Integrate with the Spotify API using their SDKs.",
     "tutorial": "https://developer.spotify.com/documentation/web-api/",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "frontend",
-      "backend"
-    ],
-    "stack": [
-      "react",
-      "javascript",
-      "chakraUI"
-    ]
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "javascript", "chakraUI"]
   },
   {
     "title": "Make a news aggregator",
     "description": "Create a news aggregator application that pulls in RSS feeds from multiple sources and aggregates them based on date.",
     "tutorial": "https://developer.spotify.com/documentation/web-api/",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "frontend",
-      "backend"
-    ],
-    "stack": [
-      "react",
-      "node",
-      "python",
-      "ruby",
-      "php",
-      "chakraUI"
-    ]
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "node", "python", "ruby", "php", "chakraUI"]
   },
   {
     "title": "Build an online store using external APIs",
     "description": "Printful has a solid API interface that developers can tap into in order to create white label products. Use their API to create a fully capable ecommerce store complete with cart and payment acceptance.",
     "tutorial": "https://www.printful.com/",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "frontend",
-      "backend"
-    ],
-    "stack": [
-      "react",
-      "ruby",
-      "php",
-      "chakraUI",
-      "tailwindcss"
-    ]
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "ruby", "php", "chakraUI", "tailwindcss"]
   },
   {
     "title": "Build a Bug tracker",
     "description": "Create a bug tracking system. It's much more in depth than a standard todo list app.",
     "tutorial": "",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "frontend",
-      "backend"
-    ],
-    "stack": [
-      "react",
-      "ruby",
-      "php",
-      "chakraUI",
-      "tailwindcss"
-    ]
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "ruby", "php", "chakraUI", "tailwindcss"]
   },
   {
     "title": "web3 version of Spotify",
     "description": "Create a dApp for music content distribution - where Spotify meets web3 and is artist friendly.",
     "tutorial": "",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "frontend",
-      "backend"
-    ],
-    "stack": [
-      "react",
-      "ruby",
-      "php",
-      "chakraUI",
-      "tailwindcss",
-      "blockchain"
-    ]
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "ruby", "php", "chakraUI", "tailwindcss", "blockchain"]
   },
   {
     "title": "Java Authentication Service and Resource Service",
     "description": "Build a Spring backend to handle Authentication of users and a Spring Service which is protected by the Auth Service.",
     "tutorial": "",
     "type": "api",
-    "role": [
-      "backend",
-      "api"
-    ],
-    "stack": [
-      "spring",
-      "java"
-    ]
+    "role": ["backend", "api"],
+    "stack": ["spring", "java"]
   },
   {
     "title": "JumpStart Pro",
     "description": "Created by Chris from GoRails, Jumpstart Pro allows you to get your project up and running quickly. Free version is available too.",
     "tutorial": "https://jumpstartrails.com",
     "type": "WebApp",
-    "role": [
-      "fullstack",
-      "frontend",
-      "backend"
-    ],
-    "stack": [
-      "rails",
-      "ruby",
-      "tailwindcss",
-      "hotwire"
-    ]
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["rails", "ruby", "tailwindcss", "hotwire"]
   },
   {
     "title": "Make an Evernote clone",
     "description": "Build a clone of Evernote using React (NextJS) and Firebase.",
     "tutorial": "https://www.freecodecamp.org/news/nextjs-firebase-tutorial-build-an-evernote-clone/",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "frontend",
-      "backend"
-    ],
-    "stack": [
-      "react",
-      "firebase",
-      "javascript",
-      "nextjs"
-    ]
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "firebase", "javascript", "nextjs"]
   },
   {
     "title": "Build a calculator",
     "description": "Build a calculator using React, a perfect beginner project.",
     "tutorial": "https://www.youtube.com/watch?v=DgRrrOt0Vr8",
     "type": "webApp",
-    "role": [
-      "fullstack",
-      "frontend",
-      "backend"
-    ],
-    "stack": [
-      "react",
-      "javascript",
-      "css"
-    ]
+    "role": ["fullstack", "frontend", "backend"],
+    "stack": ["react", "javascript", "css"]
   },
   {
     "title": "Build a wine library api",
     "description": "Build a api to have all wines details from all over the world",
     "tutorial": "",
     "type": "api",
-    "role": [
-      "backend",
-      "api"
-    ],
-    "stack": [
-      "javascript",
-      "typescript",
-      "nestjs"
-    ]
+    "role": ["backend", "api"],
+    "stack": ["javascript", "typescript", "nestjs"]
+  },
+  {
+    "title": "Build a stop watch",
+    "description": "Great beginner level project to build a simple stop watch in Javascript.",
+    "tutorial": "",
+    "type": "webApp",
+    "role": ["frontend", "fullstack"],
+    "stack": ["javascript", "typescript"]
+  },
+  {
+    "title": "Rock Paper Scissors",
+    "description": "Great beginner level project to build the classic game.",
+    "tutorial": "",
+    "type": "webApp",
+    "role": ["frontend", "fullstack"],
+    "stack": ["javascript", "typescript"]
+  },
+  {
+    "title": "Music player",
+    "description": "Build a simple music player with integration to a music streaming service, e.g. Spotify",
+    "tutorial": "",
+    "type": "webApp",
+    "role": ["frontend", "fullstack", "api"],
+    "stack": ["javascript", "typescript", "nextjs", "node", "tailwindcss"]
   }
 ]
