@@ -1,5 +1,12 @@
 [
   {
+    "title": "Recipe Finder",
+    "description": "Build a web app that allows users to search for recipes by ingredient, cuisine, or dish type. You could use an API like Edamam to get recipe data",
+    "type": "webApp",
+    "role": ["frontend", "backend", "fullstack"],
+    "stack": ["nextjs", "typescript", "tailwindcss"]
+  }, 
+  {
     "title": "Habit Tracker",
     "description": "Build a habit tracker app for iPhone or Android.",
     "tutorial": "",
